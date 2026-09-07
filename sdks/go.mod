@@ -44,7 +44,7 @@ require (
 	github.com/google/uuid v1.3.0
 	github.com/johannesboyne/gofakes3 v0.0.0-20221110173912-32fb85c5aed6
 	github.com/lib/pq v1.10.9
-	github.com/linkedin/goavro/v2 v2.12.0
+	github.com/linkedin/goavro/v2 v2.15.0
 	github.com/proullon/ramsql v0.0.1
 	github.com/spf13/cobra v1.7.0
 	github.com/testcontainers/testcontainers-go v0.23.0
